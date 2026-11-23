@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Suresh Sopanrao Jagtap</name>
+
+<Placemark>
+<name>Suresh Sopanrao Jagtap</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.229491,18.12919,0 74.229452,18.129567,0 74.22865,18.129646,0 74.228604,18.129277,0 74.229491,18.12919,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

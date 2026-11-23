@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Matteen Hasim Mangoli</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="10DF2F12B79424ADFBFA6">
+		<ns0:name>Matteen Hasim Mangoli</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.29350407258919</ns0:longitude>
+			<ns0:latitude>16.5540879747336</ns0:latitude>
+			<ns0:altitude>566.4046198367732</ns0:altitude>
+			<ns0:heading>39.22301378430838</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>769.9438581879804</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.29392389413479,16.55415682947293,0 74.29377273072686,16.5559557024662,0 74.29325061499425,16.55590708543988,0 74.29348206132195,16.55410951049557,0 74.29392389413479,16.55415682947293,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

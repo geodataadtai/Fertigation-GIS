@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Rajendra Eknath Patil</name>
+
+<Placemark>
+<name>Rajendra Eknath Patil</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.462246,21.578272,0 74.460454,21.57881,0 74.462273,21.579044,0 74.460698,21.578166,0 74.462246,21.578272,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

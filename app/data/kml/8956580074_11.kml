@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Amar Dilip Sangar</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="756D3510E3424ADFBFA6">
+		<ns0:name>Amar Dilip Sangar</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.32191034532138</ns0:longitude>
+			<ns0:latitude>16.57283405433619</ns0:latitude>
+			<ns0:altitude>576.6816152490356</ns0:altitude>
+			<ns0:heading>12.40753278501144</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>654.391797514254</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.32160504280749,16.57173578385853,0 74.3221976194536,16.57167161799308,0 74.32241588817817,16.5727860966629,0 74.32191794394052,16.5728300444918,0 74.32160504280749,16.57173578385853,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

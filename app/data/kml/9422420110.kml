@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Audumbar Appasaheb Nimbalkar</name>
+
+<Placemark>
+<name>Audumbar Appasaheb Nimbalkar</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>75.207874,18.556873,0 75.207665,18.556316,0 75.208695,18.556184,0 75.208566,18.556683,0 75.207874,18.556873,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

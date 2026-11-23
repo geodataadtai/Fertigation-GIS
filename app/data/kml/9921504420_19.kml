@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sanjay Annaso Todkar</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="113AF8FA1AF424ADFBFA6">
+		<ns0:name>Sanjay Annaso Todkar</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.29995189671273</ns0:longitude>
+			<ns0:latitude>16.52396444265375</ns0:latitude>
+			<ns0:altitude>597.8151526965803</ns0:altitude>
+			<ns0:heading>0</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>436.9290376907884</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.2999544204044,16.52395989513638,0 74.29964788602794,16.5241967997931,0 74.2991826621008,16.52404333208335,0 74.29928835106149,16.52359402944947,0 74.29936356469753,16.52359224310313,0 74.29943030075128,16.52339541907439,0 74.29971264747671,16.52339866723785,0 74.29979880013144,16.52316773016719,0 74.299964760637,16.52314151795875,0 74.30000504230891,16.52299062383796,0 74.30013261989544,16.52309082309243,0 74.2999544204044,16.52395989513638,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

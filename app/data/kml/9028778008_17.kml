@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Amol Ashokrao Navale</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="128D93CE729424ADFBFA6">
+		<ns0:name>Amol Ashokrao Navale</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.28226800750117</ns0:longitude>
+			<ns0:latitude>16.56605116314996</ns0:latitude>
+			<ns0:altitude>564.1369011172853</ns0:altitude>
+			<ns0:heading>4.901048137055207</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>505.4363660640229</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.2822649612809,16.56603946580726,0 74.28200944655471,16.565337812075,0 74.2823806060223,16.5654131077995,0 74.28285621268704,16.5655880008812,0 74.28288818534212,16.56609777068487,0 74.2822649612809,16.56603946580726,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

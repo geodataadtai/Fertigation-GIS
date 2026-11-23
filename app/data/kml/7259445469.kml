@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Balgonda Ramgonda Patil</name>
+
+<Placemark>
+<name>Balgonda Ramgonda Patil</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.5048798,16.5764791,0 74.5048167,16.5762606,0 74.5054926,16.5761449,0 74.5058936,16.5763236,0 74.5048798,16.5764791,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

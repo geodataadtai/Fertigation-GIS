@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Firoz Sardar Sheikh</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="87E984F24C424ADFBFA6">
+		<ns0:name>Firoz Sardar Sheikh</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.30418933169355</ns0:longitude>
+			<ns0:latitude>16.53932537725333</ns0:latitude>
+			<ns0:altitude>574.6689731021345</ns0:altitude>
+			<ns0:heading>26.38215781216821</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>363.2364399663857</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.30407578241116,16.5388771444599,0 74.30413545473068,16.53877575347698,0 74.30439429285714,16.53843224358342,0 74.30451274336259,16.5386521781171,0 74.30475186211282,16.53879093288313,0 74.30488017506897,16.53928953354518,0 74.30499119869613,16.53982269487302,0 74.30435962782116,16.53997351843223,0 74.30419259921031,16.5393107905509,0 74.30407578241116,16.5388771444599,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

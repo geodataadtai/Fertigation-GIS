@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Milind Vasantrao Devkar</name>
+
+<Placemark>
+<name>Milind Vasantrao Devkar</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>75.16956,18.585084,0 75.169431,18.5847,0 75.169841,18.584556,0 75.169953,18.584983,0 75.16956,18.585084,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Ravso Gundu Gitaje</name>
+
+<Placemark>
+<name>Ravso Gundu Gitaje</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.655878,16.642895,0 74.656134,16.642854,0 74.657069,16.644964,0 74.656798,16.645043,0 74.655878,16.642895,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

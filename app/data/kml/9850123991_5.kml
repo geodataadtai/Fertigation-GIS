@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ramgonda Balgonda Patil</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="4AE5A98B40424ADFBFA6">
+		<ns0:name>Ramgonda Balasaheb Patil</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.33065577371914</ns0:longitude>
+			<ns0:latitude>16.56104276639628</ns0:latitude>
+			<ns0:altitude>570.3439521451278</ns0:altitude>
+			<ns0:heading>0</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>501.802952877988</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.33162307117742,16.56095683016059,0 74.33177244714875,16.56152629342182,0 74.33072622810249,16.56174787398893,0 74.33066900269647,16.56100775320668,0 74.33117365588456,16.56096755379287,0 74.33162307117742,16.56095683016059,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

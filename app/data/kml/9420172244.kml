@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>KATE DATTATRAYA JITOBA</name>
+
+<Placemark>
+<name>KATE DATTATRAYA JITOBA</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.64795,18.166906,0 74.648766,18.16718,0 74.64888,18.166833,0 74.648074,18.16649,0 74.64795,18.166906,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

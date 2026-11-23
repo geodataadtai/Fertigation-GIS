@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jamir Hasan Sheikh</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="153E0ECE6BD424ADFBFA6">
+		<ns0:name>Jamir Hasan Sheikh</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.30113273347341</ns0:longitude>
+			<ns0:latitude>16.53654312357624</ns0:latitude>
+			<ns0:altitude>580.8154246582878</ns0:altitude>
+			<ns0:heading>0.9249806009899063</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>493.8572082654719</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_19977AB5854264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.30095941648166,16.53607882323186,0 74.30151124840854,16.53591891032962,0 74.30144344654288,16.53578683296953,0 74.30178834094426,16.53556357181734,0 74.30202829322089,16.53606264505341,0 74.30182717705594,16.53621860107582,0 74.30173958252217,16.53610073267064,0 74.30158230335579,16.53617048475166,0 74.30164399687332,16.53632235167678,0 74.30193626541183,16.53679794164779,0 74.30133843735402,16.53707175900691,0 74.30095941648166,16.53607882323186,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

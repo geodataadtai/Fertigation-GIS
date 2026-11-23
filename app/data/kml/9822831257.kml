@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Sangramsingh Muralidhar Taware</name>
+
+<Placemark>
+<name>Sangramsingh Muralidhar Taware</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.344594,18.076101,0 74.344512,18.075748,0 74.345285,18.075687,0 74.345332,18.076062,0 74.344594,18.076101,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

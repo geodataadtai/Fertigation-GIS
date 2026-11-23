@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sabina Sajid Shekh</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="9003A0D587424ADFBFA6">
+		<ns0:name>Sabina Sajid Shekh</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.30208448694924</ns0:longitude>
+			<ns0:latitude>16.53902281489889</ns0:latitude>
+			<ns0:altitude>575.1479461800089</ns0:altitude>
+			<ns0:heading>34.27474120784862</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>487.2747700472974</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.30208495326278,16.53902158938571,0 74.30234259338182,16.53970033784068,0 74.30139658143671,16.5399107059498,0 74.30122708215691,16.53916227059203,0 74.30208495326278,16.53902158938571,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

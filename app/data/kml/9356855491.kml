@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Harshvardhan Balasaheb Gund</name>
+
+<Placemark>
+<name>Harshvardhan Balasaheb Gund</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>75.899376,17.979681,0 75.898864,17.979726,0 75.898916,17.980367,0 75.899457,17.980318,0 75.899376,17.979681,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

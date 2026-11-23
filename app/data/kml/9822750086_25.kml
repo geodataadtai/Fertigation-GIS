@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Matten Aalamgir Mujavar</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="B2FA406FA0424ADFBFA6">
+		<ns0:name>Matten Aalamgir Mujavar</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.30527694956864</ns0:longitude>
+			<ns0:latitude>16.53732849373244</ns0:latitude>
+			<ns0:altitude>570.0118503070754</ns0:altitude>
+			<ns0:heading>1.085405342796263e-17</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>1191.404907749238</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.30647213207521,16.53735996584746,0 74.30650511376383,16.53807865787604,0 74.30569268156776,16.53810494333987,0 74.30544301049709,16.53810760479681,0 74.30532321228571,16.53789480144383,0 74.30529702092625,16.53737895095848,0 74.30647213207521,16.53735996584746,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

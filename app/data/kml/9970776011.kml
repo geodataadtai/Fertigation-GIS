@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>WABALE RAHUL JANARDHAN</name>
+
+<Placemark>
+<name>WABALE RAHUL JANARDHAN</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.663061,18.2543806,0 74.662758,18.254422,0 74.663299,18.256203,0 74.663532,18.256123,0 74.663061,18.2543806,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

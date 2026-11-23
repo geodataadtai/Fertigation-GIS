@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>SAPKAL RAHUL DNYANESHWAR</name>
+
+<Placemark>
+<name>SAPKAL RAHUL DNYANESHWAR</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.691952,18.093655,0 74.692356,18.094647,0 74.693047,18.094424,0 74.692682,18.093518,0 74.691952,18.093655,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

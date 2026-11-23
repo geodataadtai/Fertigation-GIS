@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Bapu Yadav Haral</name>
+
+<Placemark>
+<name>Bapu Yadav Haral</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.588331,18.515743,0 74.588581,18.515731,0 74.588387,18.514931,0 74.588142,18.514971,0 74.588331,18.515743,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

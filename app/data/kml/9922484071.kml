@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Makhmalla Rafik Bapu</name>
+
+<Placemark>
+<name>Makhmalla Rafik Bapu</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.641242,16.663733,0 74.641006,16.66296,0 74.640377,16.663097,0 74.640602,16.664071,0 74.641242,16.663733,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

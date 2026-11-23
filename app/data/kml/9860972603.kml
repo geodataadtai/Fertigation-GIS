@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Shrikant Laxmanrao Belapure</name>
+
+<Placemark>
+<name>Shrikant Laxmanrao Belapure</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>77.656942,18.813679,0 77.655762,18.813668,0 77.656842,18.813143,0 77.655814,18.813261,0 77.656942,18.813679,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

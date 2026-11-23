@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Devendra Dilip Jambale</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="AE00FD6E92424ADFBFA6">
+		<ns0:name>Devendra Dilip Jambale</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.30564603190464</ns0:longitude>
+			<ns0:latitude>16.53826126554101</ns0:latitude>
+			<ns0:altitude>569.8024203825088</ns0:altitude>
+			<ns0:heading>359.9999999999998</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>1191.614340537053</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.30660938740178,16.53822335139907,0 74.30668531113109,16.53908587402836,0 74.30595940637021,16.5391188452816,0 74.30566397015848,16.53827849331316,0 74.30660938740178,16.53822335139907,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

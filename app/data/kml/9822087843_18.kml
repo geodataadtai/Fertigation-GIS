@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ramesh Annaso Todkar</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="0DB2EB9C6A424ADFBFA6">
+		<ns0:name>Ramesh Annaso Todkar</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.32658869989064</ns0:longitude>
+			<ns0:latitude>16.56149314743128</ns0:latitude>
+			<ns0:altitude>567.1636425908785</ns0:altitude>
+			<ns0:heading>0.0001768033089722808</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>30.00002677938539</ns1:fovy>
+			<ns0:range>944.9583281503874</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_05941DAC994264B09C6E</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.32619889104859,16.55999368817331,0 74.32650306049419,16.55999980535934,0 74.3267059622719,16.56252423953869,0 74.32633315440583,16.56251846827791,0 74.32619889104859,16.55999368817331,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

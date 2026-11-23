@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Rohit Ramgonda Patil</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="3143947742424ADFBFA6">
+		<ns0:name>Rohit Ramgonda Patil</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.33185779271248</ns0:longitude>
+			<ns0:latitude>16.56203614172623</ns0:latitude>
+			<ns0:altitude>572.0887603876484</ns0:altitude>
+			<ns0:heading>292.2173267389031</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>968.3842059544986</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.33185370846951,16.56203415833491,0 74.33003337356219,16.56238399610475,0 74.32989830375837,16.56198376037012,0 74.33175623885752,16.56155504320352,0 74.33185370846951,16.56203415833491,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

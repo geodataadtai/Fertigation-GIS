@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Yuvraj Ganpath Dhore</name>
+
+<Placemark>
+<name>Yuvraj Ganpath Dhore</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.324085,18.323848,0 74.324485,18.323818,0 74.324271,18.322833,0 74.323964,18.322865,0 74.324085,18.323848,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

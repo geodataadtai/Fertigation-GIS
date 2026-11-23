@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>NARUTE RANJEET RAMDAS</name>
+
+<Placemark>
+<name>NARUTE RANJEET RAMDAS</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.736267,18.160948,0 74.736088,18.160467,0 74.734563,18.160908,0 74.73473,18.161361,0 74.736267,18.160948,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

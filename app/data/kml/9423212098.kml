@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>PADULE DILIP TUKARAM</name>
+
+<Placemark>
+<name>PADULE DILIP TUKARAM</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>75.01725,18.1649948,0 75.017732,18.16503,0 75.0177651,18.1636492,0 75.017266,18.163353,0 75.01725,18.1649948,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

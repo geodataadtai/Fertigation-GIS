@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Sonam Sandesh Gite</name>
+
+<Placemark>
+<name>Sonam Sandesh Gite</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.638899,18.050233,0 74.638864,18.04957,0 74.639893,18.050222,0 74.639824,18.049515,0 74.638899,18.050233,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

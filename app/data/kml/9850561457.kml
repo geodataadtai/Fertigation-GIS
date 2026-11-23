@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>AWAD BAPURAO RAMDAS</name>
+
+<Placemark>
+<name>AWAD BAPURAO RAMDAS</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.728071,18.198102,0 74.728467,18.198015,0 74.728401,18.196265,0 74.727988,18.196296,0 74.728071,18.198102,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

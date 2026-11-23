@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Suyog Pandurang Patil</name>
+
+<Placemark>
+<name>Suyog Pandurang Patil</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.8758,18.1186,0 74.8763,18.1185,0 74.8767,18.118,0 74.8758,18.1181,0 74.8758,18.1186,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

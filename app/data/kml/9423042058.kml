@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Ganpatrao Aapasaheb Patil</name>
+
+<Placemark>
+<name>Ganpatrao Aapasaheb Patil</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.4972181,16.736113,0 74.4974002,16.736104,0 74.4971742,16.7358793,0 74.4971591,16.7358144,0 74.4972181,16.736113,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

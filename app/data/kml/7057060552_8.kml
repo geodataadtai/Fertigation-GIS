@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mujahid Iqbal Kolhapure</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="16697AB9E0B424ADFBFA6">
+		<ns0:name>Mujahid Iqbal Kolhapure</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.32131200124542</ns0:longitude>
+			<ns0:latitude>16.57042468284119</ns0:latitude>
+			<ns0:altitude>571.0198437057155</ns0:altitude>
+			<ns0:heading>5.222919553593714</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>907.7780284926121</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_19977AB5854264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.32187312455751,16.57047121657561,0 74.32187547539635,16.57052677703272,0 74.32232707902347,16.57048469914546,0 74.32245579720285,16.57151555613148,0 74.32197837717841,16.57156194613768,0 74.32183577462447,16.57141775882531,0 74.32157382402204,16.5714148187929,0 74.32148598054812,16.57050515700085,0 74.32187312455751,16.57047121657561,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

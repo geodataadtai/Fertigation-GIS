@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mirasho Hasan Sheikh</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="1433BBB8AF2424ADFBFA6">
+		<ns0:name>Mirasho Hasan Sheikh</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.30117482649995</ns0:longitude>
+			<ns0:latitude>16.53666627264053</ns0:latitude>
+			<ns0:altitude>582.3897370808309</ns0:altitude>
+			<ns0:heading>14.3732024416488</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>438.3839883129986</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_19977AB5854264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.30129065488558,16.53708153171167,0 74.29959040575291,16.53763043938635,0 74.29957605306892,16.53726242516387,0 74.30117020412489,16.5366674052829,0 74.30129065488558,16.53708153171167,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

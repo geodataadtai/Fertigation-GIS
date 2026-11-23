@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Shekhar Babasaheb Desai</name>
+
+<Placemark>
+<name>Shekhar Babasaheb Desai</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.3818,16.6666,0 74.3819,16.6677,0 74.3828,16.6677,0 74.3827,16.6666,0 74.3818,16.6666,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Savita Pratap Mane</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="196084B927424ADFBFA6">
+		<ns0:name>Savita Pratap Mane</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.30243105690202</ns0:longitude>
+			<ns0:latitude>16.5716669766418</ns0:latitude>
+			<ns0:altitude>580.6090863869663</ns0:altitude>
+			<ns0:heading>91.00003732155299</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>500.8971722950082</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.3024452785756,16.57167275287396,0 74.30250618998518,16.57103800081146,0 74.3027103127892,16.57104192532225,0 74.30273053394831,16.57094524630272,0 74.30306056299884,16.57097018752831,0 74.30309890122763,16.57118940547723,0 74.3029787811256,16.57238427979763,0 74.30290833748424,16.57237711979204,0 74.30290174078152,16.57251076609385,0 74.3024123700329,16.57236211150578,0 74.3024452785756,16.57167275287396,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

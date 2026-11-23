@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Varsha Ranjit Banne</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="EA6647E81D424ADFBFA6">
+		<ns0:name>Varsha Ranjit Banne</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.33917233786622</ns0:longitude>
+			<ns0:latitude>16.59210600874398</ns0:latitude>
+			<ns0:altitude>602.2416918740545</ns0:altitude>
+			<ns0:heading>240.8872098424558</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>521.4531533911941</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.33825286094061,16.59144851929489,0 74.33847283794744,16.59095752627188,0 74.33861435231347,16.59068904703292,0 74.33874046223224,16.5904577250348,0 74.33894453099671,16.59045813916921,0 74.33916105753673,16.59210720679373,0 74.33825286094061,16.59144851929489,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Sujata Anilkumar Shaha</name>
+
+<Placemark>
+<name>Sujata Anilkumar Shaha</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>74.351532,18.129093,0 74.351816,18.129977,0 74.352695,18.129448,0 74.352512,18.128981,0 74.351532,18.129093,0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document></kml>

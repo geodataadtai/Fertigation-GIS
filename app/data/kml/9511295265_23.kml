@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Rajendra Baburao Powar</name>
+    <ns0:Placemark xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2" id="2F5E21EBCE424ADFBFA6">
+		<ns0:name>Rajendra Baburao Powar</ns0:name>
+		<ns0:LookAt>
+			<ns0:longitude>74.31423210328231</ns0:longitude>
+			<ns0:latitude>16.56847732577911</ns0:latitude>
+			<ns0:altitude>570.982117634468</ns0:altitude>
+			<ns0:heading>114.6279976973858</ns0:heading>
+			<ns0:tilt>0</ns0:tilt>
+			<ns1:fovy>35</ns1:fovy>
+			<ns0:range>709.8623752204003</ns0:range>
+			<ns0:altitudeMode>absolute</ns0:altitudeMode>
+		</ns0:LookAt>
+		<ns0:styleUrl>#__managed_style_0B08549E464264B09C6C</ns0:styleUrl>
+		<ns0:Polygon>
+			<ns0:outerBoundaryIs>
+				<ns0:LinearRing>
+					<ns0:coordinates>
+						74.31281911219227,16.56856573314642,0 74.31280099642679,16.56799929526025,0 74.31390261891138,16.56794394194259,0 74.31394180414058,16.56804457102317,0 74.31410577869148,16.56805277830565,0 74.31423050657712,16.56847901543745,0 74.31281911219227,16.56856573314642,0 
+					</ns0:coordinates>
+				</ns0:LinearRing>
+			</ns0:outerBoundaryIs>
+		</ns0:Polygon>
+	</ns0:Placemark>
+	
+  </Document>
+</kml>

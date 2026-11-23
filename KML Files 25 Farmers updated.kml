@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ex="http://earth.google.com/kml/ext">
+<Document id="1daZgkn5dbLlVwuU8652jNqk7v8B3Mbvh">
+	<ex:extension>base64;Co4BCoEBCn8KAggBEnkKdwokCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABgAEg8KCAitgO8HEP8BEKAfGAAaGgoHCP___wcQQBIICK2A7wcQ_wEYoB8gACgAIgkIARIFCP___wcqFwgBEggI____BxD_ARkAAAAAAADwPyAAEgQIARAAGgIIAA</ex:extension>
+	<name>Santaji Ghorpade Adsali(2025-26) 25 farmers 10/10/2026</name>
+	<gx:CascadingStyle kml:id="__managed_style_19977AB5854264B09C6C_highlight">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.72813</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_19977AB5854264B09C6C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_19977AB5854264B09C6C_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_19977AB5854264B09C6C_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0B08549E464264B09C6C_highlight">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.72813</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0B08549E464264B09C6C_normal">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.81875</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19977AB5854264B09C6C_normal">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.81875</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B08549E464264B09C6C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0B08549E464264B09C6C_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0B08549E464264B09C6C_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_05941DAC994264B09C6E_highlight">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.72813</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_05941DAC994264B09C6E_normal">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.81875</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05941DAC994264B09C6E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_05941DAC994264B09C6E_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_05941DAC994264B09C6E_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0DB2EB9C6A424ADFBFA6">
+		<name>Ramesh Annaso Todkar</name>
+		<LookAt>
+			<longitude>74.32658869989064</longitude>
+			<latitude>16.56149314743128</latitude>
+			<altitude>567.1636425908785</altitude>
+			<heading>0.0001768033089722808</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00002677938539</gx:fovy>
+			<range>944.9583281503874</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05941DAC994264B09C6E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.32619889104859,16.55999368817331,0 74.32650306049419,16.55999980535934,0 74.3267059622719,16.56252423953869,0 74.32633315440583,16.56251846827791,0 74.32619889104859,16.55999368817331,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="196084B927424ADFBFA6">
+		<name>Savita Pratap Mane</name>
+		<LookAt>
+			<longitude>74.30243105690202</longitude>
+			<latitude>16.5716669766418</latitude>
+			<altitude>580.6090863869663</altitude>
+			<heading>91.00003732155299</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500.8971722950082</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.3024452785756,16.57167275287396,0 74.30250618998518,16.57103800081146,0 74.3027103127892,16.57104192532225,0 74.30273053394831,16.57094524630272,0 74.30306056299884,16.57097018752831,0 74.30309890122763,16.57118940547723,0 74.3029787811256,16.57238427979763,0 74.30290833748424,16.57237711979204,0 74.30290174078152,16.57251076609385,0 74.3024123700329,16.57236211150578,0 74.3024452785756,16.57167275287396,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="2F5E21EBCE424ADFBFA6">
+		<name>Rajendra Baburao Powar</name>
+		<LookAt>
+			<longitude>74.31423210328231</longitude>
+			<latitude>16.56847732577911</latitude>
+			<altitude>570.982117634468</altitude>
+			<heading>114.6279976973858</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>709.8623752204003</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.31281911219227,16.56856573314642,0 74.31280099642679,16.56799929526025,0 74.31390261891138,16.56794394194259,0 74.31394180414058,16.56804457102317,0 74.31410577869148,16.56805277830565,0 74.31423050657712,16.56847901543745,0 74.31281911219227,16.56856573314642,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="3143947742424ADFBFA6">
+		<name>Rohit Ramgonda Patil</name>
+		<LookAt>
+			<longitude>74.33185779271248</longitude>
+			<latitude>16.56203614172623</latitude>
+			<altitude>572.0887603876484</altitude>
+			<heading>292.2173267389031</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>968.3842059544986</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.33185370846951,16.56203415833491,0 74.33003337356219,16.56238399610475,0 74.32989830375837,16.56198376037012,0 74.33175623885752,16.56155504320352,0 74.33185370846951,16.56203415833491,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="4AE5A98B40424ADFBFA6">
+		<name>Ramgonda Balasaheb Patil</name>
+		<LookAt>
+			<longitude>74.33065577371914</longitude>
+			<latitude>16.56104276639628</latitude>
+			<altitude>570.3439521451278</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>501.802952877988</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.33162307117742,16.56095683016059,0 74.33177244714875,16.56152629342182,0 74.33072622810249,16.56174787398893,0 74.33066900269647,16.56100775320668,0 74.33117365588456,16.56096755379287,0 74.33162307117742,16.56095683016059,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="13B1C066515424ADFBFA6">
+		<name>Megha Ramgonda Patil</name>
+		<LookAt>
+			<longitude>74.31856070341276</longitude>
+			<latitude>16.56799151932919</latitude>
+			<altitude>568.6181114899427</altitude>
+			<heading>332.6279466192945</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>911.9963515760901</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_19977AB5854264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.31856866143355,16.56801164720297,0 74.31856311592901,16.56840195916179,0 74.31697449904466,16.56837818900056,0 74.31697424683246,16.56799992830077,0 74.31856866143355,16.56801164720297,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="60E7C76236424ADFBFA6">
+		<name>Saurabh Babasaheb Patil</name>
+		<LookAt>
+			<longitude>74.33008987896945</longitude>
+			<latitude>16.55637541393756</latitude>
+			<altitude>563.6485983851252</altitude>
+			<heading>2.289510682841538</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>502.8698641317169</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.33045434846441,16.55637449353497,0 74.33052406353139,16.55655925827598,0 74.33080833031646,16.55682979254895,0 74.33092721649996,16.557851689049,0 74.33031806235357,16.55791990945752,0 74.33013260855542,16.55640983694694,0 74.33045434846441,16.55637449353497,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="756D3510E3424ADFBFA6">
+		<name>Amar Dilip Sangar</name>
+		<LookAt>
+			<longitude>74.32191034532138</longitude>
+			<latitude>16.57283405433619</latitude>
+			<altitude>576.6816152490356</altitude>
+			<heading>12.40753278501144</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>654.391797514254</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.32160504280749,16.57173578385853,0 74.3221976194536,16.57167161799308,0 74.32241588817817,16.5727860966629,0 74.32191794394052,16.5728300444918,0 74.32160504280749,16.57173578385853,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="87E984F24C424ADFBFA6">
+		<name>Firoz Sardar Sheikh</name>
+		<LookAt>
+			<longitude>74.30418933169355</longitude>
+			<latitude>16.53932537725333</latitude>
+			<altitude>574.6689731021345</altitude>
+			<heading>26.38215781216821</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>363.2364399663857</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.30407578241116,16.5388771444599,0 74.30413545473068,16.53877575347698,0 74.30439429285714,16.53843224358342,0 74.30451274336259,16.5386521781171,0 74.30475186211282,16.53879093288313,0 74.30488017506897,16.53928953354518,0 74.30499119869613,16.53982269487302,0 74.30435962782116,16.53997351843223,0 74.30419259921031,16.5393107905509,0 74.30407578241116,16.5388771444599,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="9003A0D587424ADFBFA6">
+		<name>Sabina Sajid Shekh</name>
+		<LookAt>
+			<longitude>74.30208448694924</longitude>
+			<latitude>16.53902281489889</latitude>
+			<altitude>575.1479461800089</altitude>
+			<heading>34.27474120784862</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>487.2747700472974</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.30208495326278,16.53902158938571,0 74.30234259338182,16.53970033784068,0 74.30139658143671,16.5399107059498,0 74.30122708215691,16.53916227059203,0 74.30208495326278,16.53902158938571,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="AE00FD6E92424ADFBFA6">
+		<name>Devendra Dilip Jambale</name>
+		<LookAt>
+			<longitude>74.30564603190464</longitude>
+			<latitude>16.53826126554101</latitude>
+			<altitude>569.8024203825088</altitude>
+			<heading>359.9999999999998</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1191.614340537053</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.30660938740178,16.53822335139907,0 74.30668531113109,16.53908587402836,0 74.30595940637021,16.5391188452816,0 74.30566397015848,16.53827849331316,0 74.30660938740178,16.53822335139907,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="B2FA406FA0424ADFBFA6">
+		<name>Matten Aalamgir Mujavar</name>
+		<LookAt>
+			<longitude>74.30527694956864</longitude>
+			<latitude>16.53732849373244</latitude>
+			<altitude>570.0118503070754</altitude>
+			<heading>1.085405342796263e-17</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1191.404907749238</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.30647213207521,16.53735996584746,0 74.30650511376383,16.53807865787604,0 74.30569268156776,16.53810494333987,0 74.30544301049709,16.53810760479681,0 74.30532321228571,16.53789480144383,0 74.30529702092625,16.53737895095848,0 74.30647213207521,16.53735996584746,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="C6363881CB424ADFBFA6">
+		<name>Dastgir Ismail Shekh</name>
+		<LookAt>
+			<longitude>74.30512220186266</longitude>
+			<latitude>16.53615561136745</latitude>
+			<altitude>570.7205485797401</altitude>
+			<heading>118.6984470065047</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>505.9910060167022</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.3052384109446,16.53451959904907,0 74.30504956273411,16.53608200782704,0 74.30456739940183,16.53612394883771,0 74.30479081635663,16.53441650754109,0 74.3052384109446,16.53451959904907,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="D6038A932B424ADFBFA6">
+		<name>Bashir Ismail Shekh</name>
+		<LookAt>
+			<longitude>74.30983456775819</longitude>
+			<latitude>16.53561719764004</latitude>
+			<altitude>572.0737483284072</altitude>
+			<heading>118.6998515493425</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1133.301818307809</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.31103446693828,16.53485504799959,0 74.31089901610183,16.53526550327558,0 74.30904851487009,16.535227509275,0 74.30906776041782,16.53477877531687,0 74.31103446693828,16.53485504799959,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="EA6647E81D424ADFBFA6">
+		<name>Varsha Ranjit Banne</name>
+		<LookAt>
+			<longitude>74.33917233786622</longitude>
+			<latitude>16.59210600874398</latitude>
+			<altitude>602.2416918740545</altitude>
+			<heading>240.8872098424558</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>521.4531533911941</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.33825286094061,16.59144851929489,0 74.33847283794744,16.59095752627188,0 74.33861435231347,16.59068904703292,0 74.33874046223224,16.5904577250348,0 74.33894453099671,16.59045813916921,0 74.33916105753673,16.59210720679373,0 74.33825286094061,16.59144851929489,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="F86C6A5180424ADFBFA6">
+		<name>Indrajit Ranjit Banne</name>
+		<LookAt>
+			<longitude>74.33757254538271</longitude>
+			<latitude>16.58980244334834</latitude>
+			<altitude>595.2436239356796</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>819.329528023809</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.33797458141673,16.59011753727821,0 74.33819328311903,16.5902900446466,0 74.33798409464394,16.59070104671604,0 74.33767798487067,16.59118619539692,0 74.3370470370395,16.59045328452787,0 74.33745793597963,16.58975513287911,0 74.33797458141673,16.59011753727821,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="10DF2F12B79424ADFBFA6">
+		<name>Matteen Hasim Mangoli</name>
+		<LookAt>
+			<longitude>74.29350407258919</longitude>
+			<latitude>16.5540879747336</latitude>
+			<altitude>566.4046198367732</altitude>
+			<heading>39.22301378430838</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>769.9438581879804</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.29392389413479,16.55415682947293,0 74.29377273072686,16.5559557024662,0 74.29325061499425,16.55590708543988,0 74.29348206132195,16.55410951049557,0 74.29392389413479,16.55415682947293,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="113AF8FA1AF424ADFBFA6">
+		<name>Sanjay Annaso Todkar</name>
+		<LookAt>
+			<longitude>74.29995189671273</longitude>
+			<latitude>16.52396444265375</latitude>
+			<altitude>597.8151526965803</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>436.9290376907884</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.2999544204044,16.52395989513638,0 74.29964788602794,16.5241967997931,0 74.2991826621008,16.52404333208335,0 74.29928835106149,16.52359402944947,0 74.29936356469753,16.52359224310313,0 74.29943030075128,16.52339541907439,0 74.29971264747671,16.52339866723785,0 74.29979880013144,16.52316773016719,0 74.299964760637,16.52314151795875,0 74.30000504230891,16.52299062383796,0 74.30013261989544,16.52309082309243,0 74.2999544204044,16.52395989513638,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="128D93CE729424ADFBFA6">
+		<name>Amol Ashokrao Navale</name>
+		<LookAt>
+			<longitude>74.28226800750117</longitude>
+			<latitude>16.56605116314996</latitude>
+			<altitude>564.1369011172853</altitude>
+			<heading>4.901048137055207</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>505.4363660640229</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.2822649612809,16.56603946580726,0 74.28200944655471,16.565337812075,0 74.2823806060223,16.5654131077995,0 74.28285621268704,16.5655880008812,0 74.28288818534212,16.56609777068487,0 74.2822649612809,16.56603946580726,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="1433BBB8AF2424ADFBFA6">
+		<name>Mirasho Hasan Sheikh</name>
+		<LookAt>
+			<longitude>74.30117482649995</longitude>
+			<latitude>16.53666627264053</latitude>
+			<altitude>582.3897370808309</altitude>
+			<heading>14.3732024416488</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>438.3839883129986</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_19977AB5854264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.30129065488558,16.53708153171167,0 74.29959040575291,16.53763043938635,0 74.29957605306892,16.53726242516387,0 74.30117020412489,16.5366674052829,0 74.30129065488558,16.53708153171167,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="153E0ECE6BD424ADFBFA6">
+		<name>Jamir Hasan Sheikh</name>
+		<LookAt>
+			<longitude>74.30113273347341</longitude>
+			<latitude>16.53654312357624</latitude>
+			<altitude>580.8154246582878</altitude>
+			<heading>0.9249806009899063</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>493.8572082654719</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_19977AB5854264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.30095941648166,16.53607882323186,0 74.30151124840854,16.53591891032962,0 74.30144344654288,16.53578683296953,0 74.30178834094426,16.53556357181734,0 74.30202829322089,16.53606264505341,0 74.30182717705594,16.53621860107582,0 74.30173958252217,16.53610073267064,0 74.30158230335579,16.53617048475166,0 74.30164399687332,16.53632235167678,0 74.30193626541183,16.53679794164779,0 74.30133843735402,16.53707175900691,0 74.30095941648166,16.53607882323186,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="16697AB9E0B424ADFBFA6">
+		<name>Mujahid Iqbal Kolhapure</name>
+		<LookAt>
+			<longitude>74.32131200124542</longitude>
+			<latitude>16.57042468284119</latitude>
+			<altitude>571.0198437057155</altitude>
+			<heading>5.222919553593714</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>907.7780284926121</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_19977AB5854264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.32187312455751,16.57047121657561,0 74.32187547539635,16.57052677703272,0 74.32232707902347,16.57048469914546,0 74.32245579720285,16.57151555613148,0 74.32197837717841,16.57156194613768,0 74.32183577462447,16.57141775882531,0 74.32157382402204,16.5714148187929,0 74.32148598054812,16.57050515700085,0 74.32187312455751,16.57047121657561,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="176AC7544E7424ADFBFA6">
+		<name>Rubina Mujahid Kolhapure</name>
+		<LookAt>
+			<longitude>74.32250723255044</longitude>
+			<latitude>16.57030903673902</latitude>
+			<altitude>572.1163762355757</altitude>
+			<heading>8.659480829391194</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>561.7679452311859</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_19977AB5854264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.32305755800459,16.57050723194768,0 74.32360533764997,16.5710904956281,0 74.32418674395736,16.57136208937119,0 74.32413916662503,16.57139039360104,0 74.32407240508601,16.57140885641595,0 74.32266173486823,16.57144358329437,0 74.32257334575472,16.5705194200605,0 74.32305755800459,16.57050723194768,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="18A70570036424ADFBFA6">
+		<name>Samir Sardar Sheikh</name>
+		<LookAt>
+			<longitude>74.30463314565209</longitude>
+			<latitude>16.53849672584571</latitude>
+			<altitude>569.1361452721204</altitude>
+			<heading>17.61555969897869</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>816.5191977462382</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_19977AB5854264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.30514007866998,16.5399432639851,0 74.30479035997116,16.53873822223036,0 74.30460378447108,16.53859927356182,0 74.30444863791219,16.53829585334737,0 74.30481942750228,16.53822503557548,0 74.3048880332113,16.53853198267253,0 74.30502651341642,16.53863622714171,0 74.30555248891979,16.53963702048532,0 74.30514007866998,16.5399432639851,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E78BBF3864254C494AC">
+		<name>Sajid Dilawar Mujawar</name>
+		<LookAt>
+			<longitude>74.3068042122009</longitude>
+			<latitude>16.56349253656177</latitude>
+			<altitude>565.4161471218703</altitude>
+			<heading>1.263916053213577</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>625.5371696777001</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B08549E464264B09C6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						74.30715000347872,16.56339212232237,0 74.30722233531289,16.56348713303186,0 74.30720767013027,16.56360892600756,0 74.30721145488228,16.56374733383332,0 74.30729073875047,16.56390206017037,0 74.30716817276327,16.56391943842442,0 74.30714269234092,16.56410288330377,0 74.30643265534616,16.56387640391364,0 74.30646209700713,16.5640431050999,0 74.30706607611155,16.56422798404903,0 74.30696483770372,16.56434422478979,0 74.30692338265888,16.56452402562478,0 74.30674617193087,16.56471646679972,0 74.30672168337054,16.56472164393106,0 74.30668398773044,16.564780396644,0 74.30661049760572,16.5647728231818,0 74.30647425201994,16.56438535230613,0 74.30645727296725,16.56431906057059,0 74.30649041223708,16.56421334320289,0 74.30648423285349,16.56420867395857,0 74.30646033691433,16.56404105237969,0 74.30635988436501,16.56346037066604,0 74.30715000347872,16.56339212232237,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
